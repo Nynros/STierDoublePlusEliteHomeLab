@@ -4,7 +4,7 @@ Rocky-Workstation
 1 x Asus Sage II Workstation Mainboard 
 1 x Kingston Fury 128 GB DDDR4 
 2 x Western Digital Black 850X (NVME) OS
-6 x Western Digital Black Black 4 TB (HDD) Data
+6 x Western Digital Black Black WD4006FZBX 4 TB (HDD) Data
 2 x NVIDIA Titan XP
 
 Proxmox VE Server (Community Edition)
@@ -13,7 +13,7 @@ Proxmox VE Server (Community Edition)
 1 x Asus Sage II Workstation Mainboard 
 1 x Kingston Fury 256 GB DDR4
 2 x Western Digital Black 850X (NVME) OS
-14 x Western Digital Black 4 TB (HDD) Data
+14 x Western Digital Black WD4006FZBX 4 TB (HDD) Data
 1 x NVIDIA Titan XP
 
 Proxmox Backup-Server (Community Edition)
@@ -22,13 +22,13 @@ Proxmox Backup-Server (Community Edition)
 1 x Asus Sage II Workstation Mainboard 
 1 x Kingston Fury 128 GB DDDR4
 2 x Western Digital Black 850X (NVME) OS
-6 x Western Digital Black 4 TB (HDD) Data
+6 x Western Digital Black WD4006FZBX  4 TB (HDD) Data
 1 x NVIDIA Titan XP
 
 Additional Hardware
-2 x Lenovo W530 Laptop (32 GB / 500 GB SSD) - Mobile Workstation
-1 x Lenovo ThinkCentre M920 - T-Pot Honeypot (Community Edition)
-1 x ProtectCLI Vault VP2420 - pfSense Firewall
+2 x Lenovo W530 Laptop (32 GB / 500 GB Samsung 850 Pro 2.5 SSD) - Mobile Workstation
+1 x Lenovo ThinkCentre M920 (32 GB / 500 GB Samsung 850 Pro 2.5 SSD)- T-Pot Honeypot (Community Edition)
+1 x ProtectCLI Vault VP2420 - (32 GB / 500 GB Samsung 850 Pro 2.5 SSD) pfSense Firewall
 1 x TP-Link WLAN Router Archer BE550 Tri-Band Wi-Fi 7  
 1 x TP-Link WLAN Range Extender BE9300 Tri-Band Wi-Fi 7
 3 x TP-Link 16 Port Smart Switch TL-SG1016DE
