@@ -41,3 +41,19 @@ Additional Hardware
 1 x SONY BRAVIA XR-85X90L (4K LED 120 Hz 85'' Smart TV)
 1 x Playstation 5 (DarkSoulsAddicted)
 1 x Teufel Columa 300 5.1 Audio Surround
+--
+Proxmox VE Server (Community Edition) VM Environment
+1 x Rocky 9 - InfluxDB / Grafana
+1 x Rocky 9 - Ansible
+1 x Rocky 9 - CheckMK
+1 x Rocky 9 - Graylog
+1 x Rocky 9 - NFS
+1 x Rocky 9 - Produktion
+1 x Rocky 9 - TestUndAbnahme
+1 x KaliLinux - Produktion
+1 x KaliLinux - TestUndAbnahme
+1 x Rocky10 - TestUndAbnahme
+1 x OpenSolaris - TestUndAbnahme 
+1 x LinuxMint - TestUndAbnahme
+1 x pfSense - TestUndAbnahme
+1 x Fedora Workstation - TestUndAbnahme
