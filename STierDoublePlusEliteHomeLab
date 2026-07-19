@@ -53,7 +53,7 @@ Additional Hardware
 
 Additional vServer (Netcup)
 --
-1 x Netcup vServer VPS 4000 G12 (Einstein@Home, iperf) 
+1 x Netcup vServer VPS 4000 G10 (Einstein@Home, iperf) 
 
 Proxmox VM Environment (8 CPUs, 1 TB vDisk, 8-48 GB RAM)
 --
