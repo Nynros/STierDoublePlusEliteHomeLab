@@ -1,4 +1,5 @@
 Rocky-Workstation 
+--
 1 x Fractal Design 7 XL
 1 x Intel XEON (14 Core)
 1 x Asus Sage II Workstation Mainboard 
@@ -8,6 +9,7 @@ Rocky-Workstation
 2 x NVIDIA Titan XP
 
 Proxmox VE Server (Community Edition)
+--
 1 x Fractal Design 7 XL
 1 x Intel XEON (14 Core)
 1 x Asus Sage II Workstation Mainboard 
@@ -17,6 +19,7 @@ Proxmox VE Server (Community Edition)
 1 x NVIDIA Titan XP
 
 Proxmox Backup-Server (Community Edition)
+--
 1 x Fractal Design 7 XL
 1 x Intel XEON (14 Core)
 1 x Asus Sage II Workstation Mainboard 
@@ -26,6 +29,7 @@ Proxmox Backup-Server (Community Edition)
 1 x NVIDIA Titan XP
 
 Additional Hardware
+--
 2 x Lenovo W530 Laptop (32 GB / 500 GB Samsung 850 Pro 2.5 SSD) - Mobile Workstation
 1 x Lenovo ThinkCentre M920 (32 GB / 500 GB Samsung 850 Pro 2.5 SSD)- T-Pot Honeypot (Community Edition)
 1 x ProtectCLI Vault VP2420 - (32 GB / 500 GB Samsung 850 Pro 2.5 SSD) pfSense Firewall
@@ -41,8 +45,12 @@ Additional Hardware
 1 x SONY BRAVIA XR-85X90L (4K LED 120 Hz 85'' Smart TV)
 1 x Playstation 5 + Western Digital Black 850X 1 TB (DarkSoulsAddicted)
 1 x Teufel Columa 300 5.1 Audio Surround
---
+1 x Teufel Cage Headset (2020)
+1 x Teufel Internet Radio (BBC Radio Scotland)
+1 x Teufel Bamster Pro
+
 Proxmox VE Server (Community Edition) VM Environment
+--
 1 x Rocky 9 - InfluxDB / Grafana (Monitoring) 
 1 x Rocky 9 - Ansible (Automation)
 1 x Rocky 9 - CheckMK (Monitoring)
