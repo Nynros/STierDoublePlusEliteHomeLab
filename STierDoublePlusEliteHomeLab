@@ -51,6 +51,10 @@ Additional Hardware
 1 x SONY BRAVIA XR-85X90L (4K LED 120 Hz 85'' Smart TV)
 1 x Playstation 5 + Western Digital Black 850X 1 TB (DarkSoulsAddicted)
 
+Additional vServer (Netcup)
+--
+1 x Netcup vServer VPS 4000 G12 (Einstein@Home, iperf) 
+
 Proxmox VM Environment (8 CPUs, 1 TB vDisk, 8-48 GB RAM)
 --
 1 x Rocky 9 - InfluxDB / Grafana (DataVisualization) 
@@ -67,7 +71,3 @@ Proxmox VM Environment (8 CPUs, 1 TB vDisk, 8-48 GB RAM)
 1 x LinuxMint - TestUmgebung
 1 x pfSense - TestUmgebung
 1 x Fedora Workstation - TestUmgebung
-
-Additional vServer (Netcup)
---
-1 x Netcup vServer VPS 4000 G12 (Einstein@Home, iperf) 
