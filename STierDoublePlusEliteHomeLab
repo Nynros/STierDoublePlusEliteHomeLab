@@ -43,12 +43,12 @@ Additional Hardware
 1 x Teufel Columa 300 5.1 Audio Surround
 --
 Proxmox VE Server (Community Edition) VM Environment
-1 x Rocky 9 - InfluxDB / Grafana
-1 x Rocky 9 - Ansible
-1 x Rocky 9 - CheckMK
-1 x Rocky 9 - Graylog
-1 x Rocky 9 - NFS
-1 x Rocky 9 - Produktion
+1 x Rocky 9 - InfluxDB / Grafana (Monitoring) 
+1 x Rocky 9 - Ansible (Automation)
+1 x Rocky 9 - CheckMK (Monitoring)
+1 x Rocky 9 - Graylog (Log-Mgmt)
+1 x Rocky 9 - NFS (Sharing)
+1 x Rocky 9 - Produktion 
 1 x Rocky 9 - TestUndAbnahme
 1 x KaliLinux - Produktion
 1 x KaliLinux - TestUndAbnahme
