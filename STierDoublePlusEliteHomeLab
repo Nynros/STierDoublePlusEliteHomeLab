@@ -53,11 +53,11 @@ Additional Hardware
 
 Proxmox VM Environment (8 CPUs, 1 TB vDisk, 8-48 GB RAM)
 --
-1 x Rocky 9 - InfluxDB / Grafana (Monitoring) 
+1 x Rocky 9 - InfluxDB / Grafana (DataVisualization) 
 1 x Rocky 9 - Ansible (Automation)
-1 x Rocky 9 - CheckMK (Monitoring)
-1 x Rocky 9 - Graylog (Log-Mgmt)
-1 x Rocky 9 - NFS (Sharing)
+1 x Rocky 9 - CheckMK (ITInfrastructureMonitoring & Alerting)
+1 x Rocky 9 - Graylog (Log-Mgmt, LogMonitoring & Alerting)
+1 x Rocky 9 - NFS (PlatformSharing)
 1 x Rocky 9 - Produktion 
 1 x Rocky 9 - TestUndAbnahme
 1 x KaliLinux - Produktion
