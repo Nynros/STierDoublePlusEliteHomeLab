@@ -3,7 +3,7 @@ Rocky-Workstation
 1 x Fractal Design 7 XL
 1 x Intel XEON (14 Core)
 1 x Asus Sage II Workstation Mainboard 
-1 x Kingston Fury 128 GB DDR4 
+1 x Kingston Fury Beast 128 GB DDR4 (No XMP) 
 2 x Western Digital Black 850X (NVME) OS 1 TB
 6 x Western Digital Black Black WD4006FZBX 4 TB (HDD) Data
 2 x NVIDIA Titan XP
@@ -13,7 +13,7 @@ Proxmox VE Server (Community Edition)
 1 x Fractal Design 7 XL
 1 x Intel XEON (14 Core)
 1 x Asus Sage II Workstation Mainboard 
-1 x Kingston Fury 256 GB DDR4
+1 x Kingston Fury Beast 256 GB DDR4 (No XMP) 
 2 x Western Digital Black 850X (NVME) OS 1 TB
 14 x Western Digital Black WD4006FZBX 4 TB (HDD) Data
 1 x NVIDIA Titan XP
@@ -23,7 +23,7 @@ Proxmox Backup-Server (Community Edition)
 1 x Fractal Design 7 XL
 1 x Intel XEON (14 Core)
 1 x Asus Sage II Workstation Mainboard 
-1 x Kingston Fury 128 GB DDDR4
+1 x Kingston Fury Beast 128 GB DDR4 (No XMP) 
 2 x Western Digital Black 850X (NVME) OS 1 TB
 6 x Western Digital Black WD4006FZBX  4 TB (HDD) Data
 1 x NVIDIA Titan XP
