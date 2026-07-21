@@ -7,6 +7,9 @@ Rocky-Workstation
 2 x Western Digital Black 850X (NVME) OS 1 TB
 6 x Western Digital Black Black WD4006FZBX 4 TB (HDD) Data
 2 x NVIDIA Titan XP
+1 x beQuiet DARK POWER PRO 12 1500W
+7 x beQuiet SILENT WINGS 4
+2 x PCIe Karte 6 Ports 6,0 Gbps 3.0 PCI Express 
 
 Proxmox VE Server (Community Edition)
 --
@@ -17,6 +20,9 @@ Proxmox VE Server (Community Edition)
 2 x Western Digital Black 850X (NVME) OS 1 TB
 14 x Western Digital Black WD4006FZBX 4 TB (HDD) Data
 1 x NVIDIA Titan XP
+1 x beQuiet DARK POWER PRO 12 1500W
+7 x beQuiet SILENT WINGS 4
+2 x PCIe Karte 6 Ports 6,0 Gbps 3.0 PCI Express 
 
 Proxmox Backup-Server (Community Edition)
 --
@@ -27,6 +33,9 @@ Proxmox Backup-Server (Community Edition)
 2 x Western Digital Black 850X (NVME) OS 1 TB
 6 x Western Digital Black WD4006FZBX  4 TB (HDD) Data
 1 x NVIDIA Titan XP
+1 x beQuiet DARK POWER PRO 12 1500W
+7 x beQuiet SILENT WINGS 4 120 mm
+2 x PCIe Karte 6 Ports 6,0 Gbps 3.0 PCI Express 
 
 Additional Hardware
 --
