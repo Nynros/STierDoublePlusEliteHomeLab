@@ -10,7 +10,7 @@ Rocky-Workstation
 1 x beQuiet Dark Power Pro 12 1500W
 6 x beQuiet Silent Wings 4 120 mm
 1 x beQuiet Dark Rock Pro 4
-2 x PCIe Karte 6 Ports 6,0 Gbps 3.0 PCI Express 
+1 x PCIe Karte 6 Ports 6,0 Gbps 3.0 PCI Express 
 
 Proxmox VE Server (Community Edition)
 --
@@ -38,7 +38,7 @@ Proxmox Backup-Server (Community Edition)
 1 x beQuiet Dark Power Pro 12 1500W
 6 x beQuiet Silent Wings 4 120 mm
 1 x beQuiet Dark Rock Pro 4
-2 x PCIe Karte 6 Ports 6,0 Gbps 3.0 PCI Express 
+1 x PCIe Karte 6 Ports 6,0 Gbps 3.0 PCI Express 
 
 Additional Hardware
 --
