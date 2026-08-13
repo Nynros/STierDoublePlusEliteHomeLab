@@ -68,7 +68,7 @@ Additional vServer (Netcup)
 --
 1 x Netcup vServer VPS 4000 G10 (Einstein@Home, iperf3 Server) 
 
-Proxmox VM Environment (28 vCPUs, 48 TByte Disks, 256 GB RAM)
+Proxmox VM Environment (28 vCPUs, 48 TByte Disks, 256 GByte RAM)
 --
 1 x Rocky 9 - InfluxDB / Grafana (DataVisualization) || 8 vCPU / 48 GByte RAM / 1 TByte zPool-Disk
 1 x Rocky 9 - CheckMK (IT-Infrastructure Monitoring) || 8 vCPU / 48 GByte RAM / 1 TByte zPool-Disk
