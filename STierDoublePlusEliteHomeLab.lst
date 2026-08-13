@@ -77,7 +77,7 @@ Proxmox VM Environment (28 vCPUs, 48 TByte Disks, 256 GB RAM)
 1 x Rocky 9 - Ansible (Automation) || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk 
 1 x Rocky 9 - Produktion || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x Rocky 9 - TestUmgebung || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
-1 x Rocky10 - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
+1 x Rocky 10 - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x KaliLinux - Produktion || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x KaliLinux - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x pfSense - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
