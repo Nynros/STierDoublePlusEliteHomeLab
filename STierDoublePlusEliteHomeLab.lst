@@ -70,9 +70,9 @@ Additional vServer (Netcup)
 
 Proxmox VM Environment (28 vCPUs, 48 TByte Disks, 256 GByte RAM)
 --
-1 x Rocky 9 - InfluxDB / Grafana (DataVisualization) || 8 vCPU / 32 GByte RAM / 1 TByte zPool-Disk
-1 x Rocky 9 - CheckMK (IT-Infrastructure Monitoring) || 8 vCPU / 32 GByte RAM / 1 TByte zPool-Disk
-1 x Rocky 9 - Graylog (IT Log-Monitoring / -Mgmt) || 8 vCPU CPU / 32 GByte RAM / 1 TByte zPool-Disk
+1 x Rocky 9 - InfluxDB / Grafana (DataVisualization) || 8 vCPU / 48 GByte RAM / 1 TByte zPool-Disk
+1 x Rocky 9 - CheckMK (IT-Infrastructure Monitoring) || 8 vCPU / 48 GByte RAM / 1 TByte zPool-Disk
+1 x Rocky 9 - Graylog (IT Log-Monitoring / -Mgmt) || 8 vCPU CPU / 48 GByte RAM / 1 TByte zPool-Disk
 1 x Rocky 9 - NFSv4 (Platform-Backup) || 8 vCPU / 8 GByte RAM / 8 TByte zPool-Disk
 1 x Rocky 9 - Ansible (Automation) || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk 
 1 x Rocky 9 - Produktion || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
