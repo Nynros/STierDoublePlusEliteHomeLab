@@ -77,10 +77,10 @@ Proxmox VM Environment (8 CPUs, 1 TB vDisk, 8-48 GB RAM)
 1 x Rocky 9 - NFS (PlatformBackup) || 4 CPU / 8 GByte RAM / 1 TByte Disk
 1 x Rocky 9 - Produktion || 4 CPU / 8 GByte RAM / 1 TByte Disk
 1 x Rocky 9 - TestUmgebung || 4 CPU / 8 GByte RAM / 1 TByte Disk
-1 x KaliLinux - Produktion ||4 CPU / 8 GByte RAM / 1 TByte Disk
-1 x KaliLinux - TestUmgebung ||4 CPU / 8 GByte RAM / 1 TByte Disk
-1 x Rocky10 - TestUmgebung ||4 CPU / 8 GByte RAM / 1 TByte Disk
-1 x pfSense - TestUmgebung ||4 CPU / 8 GByte RAM / 1 TByte Disk
+1 x KaliLinux - Produktion || 4 CPU / 8 GByte RAM / 1 TByte Disk
+1 x KaliLinux - TestUmgebung || 4 CPU / 8 GByte RAM / 1 TByte Disk
+1 x Rocky10 - TestUmgebung || 4 CPU / 8 GByte RAM / 1 TByte Disk
+1 x pfSense - TestUmgebung || 4 CPU / 8 GByte RAM / 1 TByte Disk
 1 x Fedora Workstation - TestUmgebung || 4 CPU / 8 GByte RAM / 1 TByte Disk
 1 x OpenSolaris - TestUmgebung || 4 CPU / 8 GByte RAM / 1 TByte Disk
 1 x LinuxMint - TestUmgebung || 4 CPU / 8 GByte RAM / 1 TByte Disk
