@@ -80,9 +80,9 @@ Proxmox VM Environment (28 vCPUs, 48 TByte Disks, 256 GByte RAM)
 1 x Rocky 10 - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x KaliLinux - Produktion || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x KaliLinux - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
+1 x HomeAssistant - Produktion || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
+1 x HomeAssistant - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x pfSense - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x Fedora Workstation - TestUmgebung || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x OpenSolaris - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x Linux Mint - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
-1 x HomeAssistant - Produktion || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
-1 x HomeAssistant - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
