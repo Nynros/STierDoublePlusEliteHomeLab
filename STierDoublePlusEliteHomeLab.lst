@@ -72,17 +72,17 @@ Proxmox VM Environment (28 vCPUs, 48 TByte Disks, 256 GByte RAM)
 --
 1 x Rocky 9 - InfluxDB / Grafana (DataVisualization) || 8 vCPU / 48 GByte RAM / 1 TByte zPool-Disk
 1 x Rocky 9 - CheckMK (IT-Infrastructure Monitoring) || 8 vCPU / 48 GByte RAM / 1 TByte zPool-Disk
-1 x Rocky 9 - Graylog (Log-Mgmt, Log-Monitoring) || 8 vCPU CPU / 48 GByte RAM / 1 TByte zPool-Disk
-1 x Rocky 9 - NFS (Platform-Backup) || 8 vCPU / 8 GByte RAM / 8 TByte zPool-Disk
+1 x Rocky 9 - Graylog (IT Log-Monitoring / -Mgmt) || 8 vCPU CPU / 48 GByte RAM / 1 TByte zPool-Disk
+1 x Rocky 9 - NFSv4 (Platform-Backup) || 8 vCPU / 8 GByte RAM / 8 TByte zPool-Disk
 1 x Rocky 9 - Ansible (Automation) || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk 
 1 x Rocky 9 - Produktion || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
-1 x Rocky 9 - TestUmgebung || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
+1 x Rocky 9 - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x Rocky 10 - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x KaliLinux - Produktion || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x KaliLinux - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x HomeAssistant - Produktion || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x HomeAssistant - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x pfSense - Test || 8 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
-1 x Fedora Workstation - TestUmgebung || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
+1 x Fedora Workstation - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x OpenSolaris - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
 1 x Linux Mint - Test || 4 vCPU / 8 GByte RAM / 1 TByte zPool-Disk
